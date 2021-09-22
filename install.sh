@@ -188,6 +188,8 @@ echo ""
 echo ""
 echo ""
 
+cd node_modules && git clone https://github.com/jcarpanelli/spinnies
+
 echo -e " ${YELLOW} Todas as dependências foram instaladas."
 echo -e " ${YELLOW} Atualização: mudanças mínimas"
 echo -e " ${YELLOW} Use o comando: ${GREEN}sh start.sh ${YELLOW}para iniciar o bot."
