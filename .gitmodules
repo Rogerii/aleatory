@@ -1,0 +1,3 @@
+[submodule "node_modules/spinnies"]
+	path = node_modules/spinnies
+	url = https://github.com/Josival321/aleatory.git
